@@ -12779,3 +12779,6 @@ pre {
 .hire-me:hover {
   color: rgba(0, 0, 0, 0.5);
 }
+.pro-pic {
+  transform: scaleX(-1);
+}
