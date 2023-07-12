@@ -1,0 +1,3 @@
+[build]
+  command = "gulp build"  # Replace "gulp build" with your actual build command
+  publish = "public_html"
